@@ -1,0 +1,18 @@
+{
+  "name": "@mono/docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.8"
+  }
+}
